@@ -1,0 +1,5 @@
+{
+  "name": "Smart Classroom: AI Emotion & Attention Decoder",
+  "description": "A real-time AI system that decodes emotions and attention through eye tracking and facial analysis, even when masked.",
+  "requestFramePermissions": []
+}
